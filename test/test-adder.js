@@ -1,4 +1,4 @@
-// import chai, declare expect variable
+  // import chai, declare expect variable
 const expect = require('chai').expect;
 
 // import adder
